@@ -22,7 +22,9 @@ The dataset contains:
 * Product Category
 * Sales, Quantity, Profit
 * Region / City
+
 ## Dashboard Preview
+Sales Dashboard.pdf
 
 ## Tools Used
 
